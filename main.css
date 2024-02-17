@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+   
+    margin-right: 50px; 
+    margin-top: 0px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px solid white;
+    padding: 8px;
+    margin: 5px;
+}
+nav a:hover{
+    background-color: rgb(86, 184, 184);
+    color:rgb(192, 27, 27); 
+
+}
+
+body {
+    background-image: url('./images/photo_1.jpg');
+    background-size: cover;
+}
